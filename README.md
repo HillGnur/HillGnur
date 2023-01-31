@@ -1,6 +1,11 @@
-<h1 align="center">:cowboy_hat_face:Howdy partner!<br>How ya feeling today?</h1>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&height=30&lines=Howdy+partner!+How+ya+feelin+today%3F" alt="Typing SVG" /></a>
+<h1 align="center">:cowboy_hat_face:</h1>
+</div>
 
-<div align="left">
+
+
+<div>
 Atualmente sou um Parrot :parrot: na Feedz e estou atuando na área de Application Security. 
 <br><br>
 Fiz um passeio em História, Letras e Matemática, mas acabei me formando em <strong>Defesa Cibernética</strong> pela <strong>FIAP</strong> e sou pós graduado em <strong>Ethical Hacking</strong> e <strong>Forense Computacional</strong> pela <strong>Uniciv</strong>.
