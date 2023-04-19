@@ -6,11 +6,13 @@
 
 
 <div>
-Atualmente sou um Parrot :parrot: na Feedz e estou atuando na área de Application Security. 
+Atualmente sou um Parrot 🦜 na Feedz e estou atuando na área de Application Security. 
 <br><br>
 Fiz um passeio em História, Letras e Matemática, mas acabei me formando em <strong>Defesa Cibernética</strong> pela <strong>FIAP</strong> e sou pós graduado em <strong>Ethical Hacking</strong> e <strong>Forense Computacional</strong> pela <strong>Uniciv</strong>.
 <br><br>
 <small>Também atuei como Desenvolvedor Fullstack para web durante alguns anos, onde me surgiu a oportunidade de aprender mais sobre as áreas de Infraestrutura e Segurança da Informação, e meus objetivos hoje são apoiar comunidades diversas no âmbito de Tecnologia e aprender a desenhar :pencil2:</small>
+<br><br>
+Além disso, estou cursando uma nova graduação em Relações Internacionais! 📖🌎
 </div>
 
 **********
