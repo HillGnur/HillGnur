@@ -6,7 +6,7 @@
 
 
 <div>
-Atualmente sou um Parrot 🦜 na Feedz e estou atuando na área de Application Security. 
+Security Analyst atuando nas áreas de Application Security e Blue Team. 
 <br><br>
 Fiz um passeio em História, Letras e Matemática, mas acabei me formando em <strong>Defesa Cibernética</strong> pela <strong>FIAP</strong> e sou pós graduado em <strong>Ethical Hacking</strong> e <strong>Forense Computacional</strong> pela <strong>Uniciv</strong>.
 <br><br>
