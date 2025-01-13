@@ -6,9 +6,9 @@
 
 
 <div>
-Security Analyst atuando nas áreas de Application Security e Blue Team. 
+Senior Security Analyst atuando nas áreas de Application Security e Blue Team. 
 <br><br>
-Fiz um passeio em História, Letras e Matemática, mas acabei me formando em <strong>Defesa Cibernética</strong> pela <strong>FIAP</strong> e sou pós graduado em <strong>Ethical Hacking</strong> e <strong>Forense Computacional</strong> pela <strong>Uniciv</strong>.
+Fiz um passeio em História, Letras e Matemática, e após isso, acabei me formando em <strong>Defesa Cibernética</strong> pela <strong>FIAP</strong> e sou pós graduado em <strong>Ethical Hacking</strong>, <strong>Threat Intelligence and Hunting</strong>, <strong>Blue Team Operations</strong> e <strong>Forense Computacional</strong> pela <strong>Uniciv</strong>.
 <br><br>
 <small>Também atuei como Desenvolvedor Fullstack para web durante alguns anos, onde me surgiu a oportunidade de aprender mais sobre as áreas de Infraestrutura e Segurança da Informação, e meus objetivos hoje são apoiar comunidades diversas no âmbito de Tecnologia e aprender a desenhar :pencil2:</small>
 <br><br>
