@@ -12,7 +12,9 @@ Fiz um passeio em História, Letras e Matemática, e após isso, acabei me forma
 <br><br>
 <small>Também atuei como Desenvolvedor Fullstack para web durante alguns anos, onde me surgiu a oportunidade de aprender mais sobre as áreas de Infraestrutura e Segurança da Informação, e meus objetivos hoje são apoiar comunidades diversas no âmbito de Tecnologia e aprender a desenhar :pencil2:</small>
 <br><br>
-Além disso, estou cursando uma nova graduação em Relações Internacionais! 📖🌎
+  <div align="center">
+    <a href="https://cursos.alura.com.br/user/murilo-gamboa-melo"> <img src="https://www.alura.com.br/assets/img/home/alura-logo.1730889067.svg" width="70px"/></a>
+  </div>
 </div>
 
 **********
