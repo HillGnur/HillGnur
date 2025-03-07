@@ -6,18 +6,21 @@
 
 
 <div>
-Senior Security Analyst atuando nas áreas de Application Security e Blue Team. 
-<br><br>
-Fiz um passeio em História, Letras e Matemática, e após isso, acabei me formando em <strong>Defesa Cibernética</strong> pela <strong>FIAP</strong> e sou pós graduado em <strong>Ethical Hacking</strong>, <strong>Threat Intelligence and Hunting</strong>, <strong>Blue Team Operations</strong> e <strong>Forense Computacional</strong> pela <strong>Uniciv</strong>.
-<br><br>
-<small>Também atuei como Desenvolvedor Fullstack para web durante alguns anos, onde me surgiu a oportunidade de aprender mais sobre as áreas de Infraestrutura e Segurança da Informação, e meus objetivos hoje são apoiar comunidades diversas no âmbito de Tecnologia e aprender a desenhar :pencil2:</small>
-<br><br>
-  <div align="center">
-    <a href="https://cursos.alura.com.br/user/murilo-gamboa-melo"> <img src="https://www.alura.com.br/assets/img/home/alura-logo.1730889067.svg" width="70px"/></a>
-  </div>
+  Senior Security Analyst atuando nas áreas de Application Security e Blue Team. 
+  <br><br>
+  Fiz um passeio em História, Letras e Matemática, e após isso, acabei me formando em <strong>Defesa Cibernética</strong> pela <strong>FIAP</strong> e sou pós graduado em <strong>Ethical Hacking</strong>, <strong>Threat Intelligence and Hunting</strong>, <strong>Blue Team Operations</strong> e <strong>Forense Computacional</strong> pela <strong>Uniciv</strong>.
+  <br><br>
+  <small>Também atuei como Desenvolvedor Fullstack para web durante alguns anos, onde me surgiu a oportunidade de aprender mais sobre as áreas de Infraestrutura e Segurança da Informação, e meus objetivos hoje são apoiar comunidades diversas no âmbito de Tecnologia e aprender a desenhar :pencil2:</small>
+  <br><br>
 </div>
 
 **********
+  
+<div align="center">
+  <a href="https://cursos.alura.com.br/user/murilo-gamboa-melo"> <img src="https://www.alura.com.br/assets/img/home/alura-logo.1730889067.svg" width="70px"/></a>
+</div>
+
+<br />
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HillGnur&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
